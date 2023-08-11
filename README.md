@@ -1,7 +1,13 @@
-# Projet CPP : Bataille Navale
+# Battleship game
 
-compiler puis lancer tests.exe pour les tests unitaire; lancer Jeu.exe pour jouer le jeu.
+Group work on Python implementation of the Battleship game.
 
+Done for the course C++ of the MSc in Mathematical Engineering at Sorbonne Université.
+
+Submitted in January, 2023
+
+
+Compiler puis lancer tests.exe pour les tests unitaire; lancer Jeu.exe pour jouer le jeu.
 
 ### Affichage grille :
 0 : case eau, 1 : case bateau intact, 2 : case bateau touché <br />
