@@ -4,7 +4,7 @@ Group work on C++ implementation of the Battleship game.
 
 Done for the course *C++* of the MSc in Mathematical Engineering at Sorbonne Université.
 
-Submitted in January, 2023
+Submitted in January, 2023.
 
 
 Compiler puis lancer tests.exe pour les tests unitaire; lancer Jeu.exe pour jouer le jeu.
