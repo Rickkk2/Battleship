@@ -1,8 +1,8 @@
 # Battleship game
 
-Group work on Python implementation of the Battleship game.
+Group work on C++ implementation of the Battleship game.
 
-Done for the course C++ of the MSc in Mathematical Engineering at Sorbonne Université.
+Done for the course *C++* of the MSc in Mathematical Engineering at Sorbonne Université.
 
 Submitted in January, 2023
 
